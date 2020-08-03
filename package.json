@@ -4,7 +4,8 @@
   "description": "event counter",
   "main": "eventCounter.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "dev": "nodemon index"
   },
   "repository": {
     "type": "git",
